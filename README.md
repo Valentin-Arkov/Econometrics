@@ -10,3 +10,6 @@ https://ridero.ru/books/ekonometricheskie_ocenki/
 Арьков В.Ю. Введение в эконометрику : Учебное пособие. — [б. м.] : Издательские решения, 2021. — 170 с.
 
 https://ridero.ru/books/vvedenie_v_ekonometriku/
+
+### Учебный план
+![Эконометрика](Econometrics-2023.jpg)
