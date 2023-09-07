@@ -13,3 +13,13 @@ https://ridero.ru/books/vvedenie_v_ekonometriku/
 
 ### Учебный план
 ![Эконометрика](Econometrics-2023.jpg)
+
+## Видео на Youtube
+Эконометрика
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkIk_f8jynInZ11EAH3Nr4g0
+
+Машинное обучение
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
+
