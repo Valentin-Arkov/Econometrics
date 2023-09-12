@@ -26,3 +26,5 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
 ### Лекции
 
 <a href="EC_01_Intro.pdf" target="_blank">1. Введение</a>
+
+<a href="EC_02_Tools" target="_blank">2. Инструменты</a>
