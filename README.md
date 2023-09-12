@@ -23,3 +23,6 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkIk_f8jynInZ11EAH3Nr4g0
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_EhZOfFLi1SvIJZ4t7AVG
 
+### Лекции
+
+<a href="EC_01_Intro.pdf" target="_blank">1. Введение</a>
